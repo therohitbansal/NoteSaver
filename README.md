@@ -11,8 +11,9 @@
 - They can delete and edit the notes that are taken.
 - Additionally editing time will be recorded.
 
-![image](https://github.com/therohitbansal/NoteSaver/assets/92664590/4d48f57c-e630-432a-a76e-a794cad1b27b)
 
+
+![P2](https://github.com/therohitbansal/NoteSaver/assets/92664590/4f409929-9d90-48e9-acda-e6b7ff2107c5)
 
 ## What I Have Used
 - For the backend server environment, I used [Node.js](https://nodejs.org) with [Express.js](https://expressjs.com) framework to design application layer.
